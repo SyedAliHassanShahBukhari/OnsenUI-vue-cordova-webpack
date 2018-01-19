@@ -18,3 +18,12 @@ After this, open the folder in any <b>text editor</b> like atom, sublime, VS Cod
 In editor you will see many folders open  <b>src folder</b> <br>
 
 After that follow this <a href="">video Link</a> <br>
+
+Commands </br>
+ -> <b>npm run dev</b> </br>
+ -> <b>npm run build</b> </br>
+ -> <b>cordova platform add android</b> </br>
+ -> <b>cordova prepare</b> </br>
+ -> <b>cordova run android</b> </br>
+ -> <b>cordova platform add browser</b> </br>
+ -> <b>cordova run browser</b> </br>
