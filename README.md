@@ -15,6 +15,6 @@ Goto the the project folder by uing this command <b>cd <i>projectname</i></b> <b
 Then, enter <b>npm  install</b> command <br>
 After this, open the folder in any <b>text editor</b> like atom, sublime, VS Code or anyother text editor <br> <br> <br>
 
-In editor you will see many folders open <b>src folder</b> <br>
+In editor you will see many folders open  <b>src folder</b> <br>
 
 After that follow this <a href="">video Link</a> <br>
